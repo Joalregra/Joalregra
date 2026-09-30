@@ -113,7 +113,7 @@ A web platform to manage citizen requests (PQRSD: petitions, complaints, claims,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
- [View repository](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)
+ [View repository](https://github.com/LydiaSierra/GeDocs.git)
 
 ---
 
